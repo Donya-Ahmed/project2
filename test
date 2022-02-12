@@ -1,0 +1,72 @@
+// const isExist =(obj)=>{
+//     let stateobj={}
+//     inputs.forEach(input => {
+       
+//       if(obj[input]){
+//         stateobj= {state:true,value:input}
+//       }
+
+//        else{
+//         stateobj={state:false,value:input}
+//        }
+//     });
+
+//     return stateobj
+
+// }
+
+        // let stateres=isExist(user)
+        // if(!stateres.state) throw new Error `${stateres.value} must be defined`
+
+
+R_Yp4iLmK
+
+
+// dealWithJson.writeData("text",[{a:1}])
+//  let x= dealWithJson.readData("text")
+
+//   console.log(crud.isObject([1,2,3]))
+ 
+
+
+//   console.log(crud.createObj([1,2,3]))
+//      crud.addUser("fsd","text")
+
+
+
+
+
+
+
+//   crud.addUser({name:"donya",phone:"01258796354",email:"donya@gmail.com",balance:50},"text")
+//  crud.addUser({name:"ahmed",phone:"01258796555",email:"ahmed@gmail.com",balance:100},"text")
+//  crud.addUser({name:"mira",phone:"01258796782",email:"ns@gmail.com",balance:200},"text")
+//  crud.addUser({name:"asi",phone:"01258788354",email:"fa@gmail.com",balance:500},"text")
+//  crud.addUser({name:"asyie",phone:"01558796354",email:"s@gmail.com",balance:520},"text")
+
+//  crud.addUser({name:"amal",phone:"01118796354",email:"m@gmail.com",balance:5000},"text")
+
+//  let ob=crud.createObj("srr")
+//  console.log(ob)
+ 
+//  crud.showAll("text")
+//    crud.addUser("fsd","text")
+//  crud.addUser({name:"amls",phone:"01118796354",email:"m@gmail.com",balance:5000},"text")
+// console.log(z);
+
+// crud.showSingle("text",12)
+// crud.delSingle("text","jckV72gb9")
+// crud.editSingle("text","xyOMSW8yy",{name:"walid",email:"walid@gmail.com"})
+// crud.addTransaction("text","xUHpotgM0",{type:"add",value:555})
+// crud.addTransaction("text","xUHpotgM0",{type:"sub",value:8888})
+
+
+// crud.deleteAllUsers("text")
+
+
+
+node index add --name=doaa  --balance=50 --phone=01236547896 --email=fk@gmail.com
+
+01236547896
+
+node index editSingle --id=8IzWYMRjn  --key=name  --key=balance --value=sosan --value=80000
